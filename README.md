@@ -1,4 +1,4 @@
-# WICON
+
 # WICON
 # 충북대학교 아이디어 공모전 최우수상
 ![캡처](https://user-images.githubusercontent.com/43057301/113599704-f2951d80-9679-11eb-9f15-121f2ccd2733.JPG)
